@@ -1,0 +1,954 @@
+# Copyright (C) 2025 Omega Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Restaurant Culinary 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/restaurant-culinary\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-17T12:02:13+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: restaurant-culinary\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/custom-functions.php:339
+msgid "Restaurant Culinary"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.omegathemes.com/products/free-restaurant-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Restaurant Culinary is a beautifully designed WordPress theme crafted to provide an elegant and functional online presence for restaurants, cafes, bistros, and culinary establishments of all kinds. With its sleek and modern design, this theme offers a visually appealing layout that showcases mouth-watering dishes, enticing menus, and inviting ambiance, making it the ideal choice for businesses in the culinary industry.Designed with a range of users in mind—whether restaurant owners, chefs, food enthusiasts, or culinary professionals—this theme offers easy customization to match the unique branding and style of any business. Its intuitive interface enables users to effortlessly create and manage menus, display special promotions, and highlight featured dishes.The theme’s responsive design ensures that it looks stunning and functions seamlessly across all devices, from desktops to smartphones, providing a smooth browsing experience for potential customers. The clean, engaging visual elements not only promote your restaurant menu but also enhance the overall user experience, encouraging customers to explore and make reservations.One of the key benefits of the Restaurant Culinary WordPress Theme is its versatility. It comes with various pre-designed templates and layout options, making it easy to create a website that reflects the personality and ambiance of your dining establishment. Whether you run a fine dining restaurant, a local bistro, or a food delivery service, the theme adapts to your business needs.Additionally, the theme integrates seamlessly with popular plugins for reservation management, online ordering, and social media integration, providing a comprehensive platform to enhance customer engagement and boost sales. The theme is optimized for performance and SEO, ensuring your restaurant ranks well in search engine results and attracts more traffic to your site."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Omega Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.omegathemes.com/"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "Maybe its out there, somewhere..."
+msgstr ""
+
+#: 404.php:24
+msgid "You can always find insightful stories on our"
+msgstr ""
+
+#: 404.php:24
+msgid "Homepage"
+msgstr ""
+
+#: 404.php:31
+msgid "Still feeling lost? Youre not alone."
+msgstr ""
+
+#: 404.php:32
+msgid "Enjoy these stories about getting lost, losing things, and finding what you never knew you were looking for."
+msgstr ""
+
+#. translators: %d: ID of a post.
+#: classes/class-walker-menu.php:76
+msgid "#%d (no title)"
+msgstr ""
+
+#: classes/class-walker-menu.php:120
+#: inc/custom-functions.php:44
+msgid "Show sub menu"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:22
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr ""
+
+#: functions.php:167
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:210
+msgid "https://layout.omegathemes.com/steps/pro-culinary-restaurant/"
+msgstr ""
+
+#: functions.php:213
+msgid "https://www.omegathemes.com/products/culinary-wordpress-theme"
+msgstr ""
+
+#: functions.php:216
+msgid "https://wordpress.org/support/theme/restaurant-culinary/"
+msgstr ""
+
+#: functions.php:219
+msgid "https://wordpress.org/support/theme/restaurant-culinary/reviews/#new-post"
+msgstr ""
+
+#: functions.php:222
+msgid "https://layout.omegathemes.com/culinary-restaurant/"
+msgstr ""
+
+#: functions.php:225
+msgid "https://layout.omegathemes.com/steps/free-culinary-restaurant/"
+msgstr ""
+
+#: header.php:36
+msgid "Skip to the content"
+msgstr ""
+
+#: inc/custom-functions.php:161
+msgid "-- Select Category --"
+msgstr ""
+
+#: inc/custom-functions.php:198
+msgid "Previous post:"
+msgstr ""
+
+#: inc/custom-functions.php:199
+msgid "Next post:"
+msgstr ""
+
+#: inc/custom-functions.php:241
+#: template-parts/header/header-layout.php:40
+msgid "Horizontal"
+msgstr ""
+
+#: inc/custom-functions.php:339
+msgid "Theme: "
+msgstr ""
+
+#: inc/custom-functions.php:339
+msgid " By "
+msgstr ""
+
+#: inc/custom-functions.php:339
+msgid "OMEGA "
+msgstr ""
+
+#: inc/custom-functions.php:349
+msgid "To the Top"
+msgstr ""
+
+#: inc/custom-functions.php:559
+msgid "Video"
+msgstr ""
+
+#: inc/custom-functions.php:562
+msgid "Audio"
+msgstr ""
+
+#: inc/custom-functions.php:565
+msgid "Gallery"
+msgstr ""
+
+#: inc/custom-functions.php:568
+msgid "Quote"
+msgstr ""
+
+#: inc/custom-functions.php:571
+#: inc/metabox.php:59
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:13
+msgid "Additional Woocommerce Options"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:29
+msgid "Product Per Column"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:49
+msgid "Product Per Page"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:69
+msgid "Enable Related Products"
+msgstr ""
+
+#: inc/customizer/colors.php:21
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/colors.php:39
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:10
+msgid "Customizer Custom Settings"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:26
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:44
+msgid "Enable Pagination"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:60
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:64
+msgid "Numeric (Page Numbers)"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:65
+msgid "Newer/Older (Previous/Next)"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:79
+msgid "Pagination Alignment"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:83
+#: inc/customizer/custom-addon.php:118
+#: inc/customizer/custom-addon.php:159
+#: inc/customizer/custom-addon.php:179
+#: inc/customizer/footer.php:68
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:84
+#: inc/customizer/custom-addon.php:119
+#: inc/customizer/custom-addon.php:160
+#: inc/customizer/custom-addon.php:180
+#: inc/customizer/footer.php:69
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:85
+#: inc/customizer/custom-addon.php:120
+#: inc/customizer/custom-addon.php:158
+#: inc/customizer/custom-addon.php:178
+#: inc/customizer/footer.php:67
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:99
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:114
+msgid "Breadcrumb Alignment"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:134
+msgid "Breadcrumb Font Size"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:154
+msgid "Single Page Content Alignment"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:174
+msgid "Single Post Content Alignment"
+msgstr ""
+
+#: inc/customizer/customizer.php:31
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:69
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:78
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:87
+msgid "Theme Addons"
+msgstr ""
+
+#: inc/customizer/customizer.php:96
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:110
+msgid "Logo width"
+msgstr ""
+
+#: inc/customizer/customizer.php:111
+msgid "Specify the range for logo size with a minimum of 200px and a maximum of 700px, in increments of 20px."
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Restaurant Culinary Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:132
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/customizer/default.php:14
+msgid "Buy Now"
+msgstr ""
+
+#: inc/customizer/default.php:38
+msgid "Taste Redefined"
+msgstr ""
+
+#: inc/customizer/default.php:39
+msgid "Where Every Flavor Tells A Story"
+msgstr ""
+
+#: inc/customizer/default.php:40
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, industry's standard dummy text ever since the 1500s,"
+msgstr ""
+
+#: inc/customizer/default.php:42
+#: inc/customizer/default.php:88
+msgid "Learn More"
+msgstr ""
+
+#: inc/customizer/default.php:51
+msgid "All rights reserved."
+msgstr ""
+
+#: inc/customizer/default.php:67
+msgid "To The Top"
+msgstr ""
+
+#: inc/customizer/default.php:85
+msgid "Highlight"
+msgstr ""
+
+#: inc/customizer/default.php:86
+msgid "The magic of the kitchen"
+msgstr ""
+
+#: inc/customizer/default.php:87
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, industry's standard dummy text ever since the."
+msgstr ""
+
+#: inc/customizer/footer.php:12
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer.php:28
+msgid "Enable Footer"
+msgstr ""
+
+#: inc/customizer/footer.php:43
+msgid "Footer Column Layout"
+msgstr ""
+
+#: inc/customizer/footer.php:47
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer/footer.php:48
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer/footer.php:49
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer/footer.php:63
+msgid "Footer Widget Title Alignment"
+msgstr ""
+
+#: inc/customizer/footer.php:83
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/footer.php:98
+#: inc/customizer/footer.php:118
+msgid "Copyright Font Size"
+msgstr ""
+
+#: inc/customizer/footer.php:134
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: inc/customizer/footer.php:135
+msgid "It will change the complete footer widget background color."
+msgstr ""
+
+#: inc/customizer/footer.php:145
+msgid "Footer Widget Background Image"
+msgstr ""
+
+#: inc/customizer/footer.php:158
+msgid "Enable To The Top"
+msgstr ""
+
+#: inc/customizer/footer.php:173
+msgid "To The Top Text"
+msgstr ""
+
+#: inc/customizer/global-color-setting.php:13
+msgid "Global Color Settings"
+msgstr ""
+
+#: inc/customizer/global-color-setting.php:32
+msgid "Global Color"
+msgstr ""
+
+#: inc/customizer/header-button.php:13
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header-button.php:29
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/customizer/header-button.php:44
+msgid "Menu Font Size"
+msgstr ""
+
+#: inc/customizer/header-button.php:64
+msgid "Menu Text Transform"
+msgstr ""
+
+#: inc/customizer/header-button.php:68
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/header-button.php:69
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/header-button.php:70
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/header-button.php:84
+msgid "Enable Search"
+msgstr ""
+
+#: inc/customizer/header-button.php:99
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/customizer/header-button.php:114
+msgid "Header Button Url"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:13
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:29
+msgid "Enable / Disable Tagline"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:44
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:59
+msgid "Slider Sub Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:74
+msgid "Slider Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:89
+msgid "Slider Content"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:104
+#: inc/customizer/homepage-content.php:119
+msgid "Slider Button Url"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:134
+msgid "Slider Right Image 1"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:150
+msgid "Slider Right Image 2"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:166
+msgid "Slider Right Image 3"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:178
+msgid "About Us Settings"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:194
+msgid "Enable About Us"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:209
+msgid "About Us Short Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:224
+msgid "About Us Heading"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:239
+msgid "About Us Content 1"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:254
+msgid "About Us Button Text"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:269
+msgid "About Us Button Url"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:284
+msgid "About Us Right Image 1"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:300
+#: inc/customizer/homepage-content.php:316
+msgid "About Us Right Image 2"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:13
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:29
+msgid "Global Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:33
+#: inc/customizer/layout-setting.php:51
+#: inc/customizer/layout-setting.php:68
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:34
+#: inc/customizer/layout-setting.php:52
+#: inc/customizer/layout-setting.php:69
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:35
+#: inc/customizer/layout-setting.php:53
+#: inc/customizer/layout-setting.php:70
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:47
+msgid "Single Page Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:64
+msgid "Single Post Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/post.php:13
+msgid "Single Meta Information Settings"
+msgstr ""
+
+#: inc/customizer/post.php:29
+msgid "Enable Single Posts Image"
+msgstr ""
+
+#: inc/customizer/post.php:44
+msgid "Enable Posts Author"
+msgstr ""
+
+#: inc/customizer/post.php:59
+msgid "Enable Posts Date"
+msgstr ""
+
+#: inc/customizer/post.php:74
+#: inc/customizer/post.php:144
+msgid "Enable Posts Category"
+msgstr ""
+
+#: inc/customizer/post.php:89
+msgid "Enable Posts Tags"
+msgstr ""
+
+#: inc/customizer/post.php:98
+msgid "Archive Meta Information Settings"
+msgstr ""
+
+#: inc/customizer/post.php:114
+msgid "Enable Post Format Icon"
+msgstr ""
+
+#: inc/customizer/post.php:129
+msgid "Enable Posts Image"
+msgstr ""
+
+#: inc/customizer/post.php:159
+msgid "Enable Posts Title"
+msgstr ""
+
+#: inc/customizer/post.php:174
+msgid "Enable Posts Content"
+msgstr ""
+
+#: inc/customizer/post.php:189
+msgid "Enable Posts Button"
+msgstr ""
+
+#: inc/customizer/post.php:204
+msgid "Blog Post Excerpt limit"
+msgstr ""
+
+#: inc/customizer/typography.php:13
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer/typography.php:45
+msgid "General Content font"
+msgstr ""
+
+#: inc/customizer/typography.php:59
+msgid "General heading font"
+msgstr ""
+
+#: inc/get-started/get-started.php:10
+#: inc/get-started/get-started.php:36
+msgid "Omega Options"
+msgstr ""
+
+#: inc/get-started/get-started.php:34
+msgid "Thank You for installing Restaurant Culinary Theme!"
+msgstr ""
+
+#: inc/get-started/get-started.php:39
+msgid "Documentation"
+msgstr ""
+
+#: inc/get-started/get-started.php:42
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/get-started/get-started.php:45
+msgid "Premium Demo"
+msgstr ""
+
+#: inc/get-started/get-started.php:47
+msgid "Dismiss"
+msgstr ""
+
+#: inc/get-started/get-started.php:102
+msgid "Edit With Customizer - Click Here"
+msgstr ""
+
+#: inc/get-started/get-started.php:110
+msgid "If you are facing any issue with our theme, submit a support ticket here."
+msgstr ""
+
+#: inc/get-started/get-started.php:113
+msgid "Lite Theme Support."
+msgstr ""
+
+#: inc/get-started/get-started.php:119
+msgid "Please write a review if you appreciate the theme."
+msgstr ""
+
+#: inc/get-started/get-started.php:122
+msgid "Rank this topic."
+msgstr ""
+
+#: inc/get-started/get-started.php:128
+msgid "Follow our lite theme documentation to set up our lite theme as seen in the screenshot."
+msgstr ""
+
+#: inc/get-started/get-started.php:131
+msgid "Lite Documentation."
+msgstr ""
+
+#: inc/get-started/get-started.php:139
+msgid "Premium Features Include:"
+msgstr ""
+
+#: inc/get-started/get-started.php:144
+msgid "One Click Demo Content Importer"
+msgstr ""
+
+#: inc/get-started/get-started.php:147
+msgid "Woocommerce Plugin Compatibility"
+msgstr ""
+
+#: inc/get-started/get-started.php:150
+msgid "Multiple Section for the templates"
+msgstr ""
+
+#: inc/get-started/get-started.php:153
+msgid "For a better user experience, make the top of your menu sticky."
+msgstr ""
+
+#: inc/get-started/get-started.php:158
+msgid "Upgrade Pro $40"
+msgstr ""
+
+#: inc/get-started/get-started.php:164
+msgid "Kindly view the premium themes live demo."
+msgstr ""
+
+#: inc/get-started/get-started.php:167
+msgid "Live Demo."
+msgstr ""
+
+#: inc/get-started/get-started.php:171
+msgid "Follow our pro theme documentation to set up our premium theme as seen in the screenshot."
+msgstr ""
+
+#: inc/get-started/get-started.php:174
+msgid "Pro Documentation."
+msgstr ""
+
+#: inc/metabox.php:12
+msgid "Global sidebar"
+msgstr ""
+
+#: inc/metabox.php:17
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metabox.php:22
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metabox.php:27
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:36
+msgid "Category Image"
+msgstr ""
+
+#: inc/metabox.php:37
+#: inc/metabox.php:67
+#: inc/metabox.php:74
+msgid "Upload Image"
+msgstr ""
+
+#: inc/metabox.php:38
+#: inc/metabox.php:68
+#: inc/metabox.php:75
+msgid "Remove Image"
+msgstr ""
+
+#: inc/pagination.php:26
+msgid "&laquo; Newer"
+msgstr ""
+
+#: inc/pagination.php:27
+msgid "Older &raquo;"
+msgstr ""
+
+#: inc/pagination.php:28
+#: inc/pagination.php:38
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/pagination.php:35
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/pagination.php:36
+msgid "Next &raquo;"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:276
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:298
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/widgets.php:12
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:14
+#: inc/widgets/widgets.php:34
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:27
+msgid "One"
+msgstr ""
+
+#: inc/widgets/widgets.php:28
+msgid "Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:29
+msgid "Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:32
+msgid "Footer Widget "
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:308
+msgid "Browse:"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:309
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:310
+msgid "Home"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:311
+msgid "404 Not Found"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:312
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: lib/breadcrumbs/breadcrumbs.php:314
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:316
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:318
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:320
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:322
+msgid "Week %s"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:782
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:799
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:816
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:832
+#: lib/breadcrumbs/breadcrumbs.php:861
+#: lib/breadcrumbs/breadcrumbs.php:888
+#: lib/breadcrumbs/breadcrumbs.php:915
+#: lib/breadcrumbs/breadcrumbs.php:1255
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:833
+#: lib/breadcrumbs/breadcrumbs.php:889
+#: lib/breadcrumbs/breadcrumbs.php:1259
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:834
+#: lib/breadcrumbs/breadcrumbs.php:1263
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:862
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %1$s: Link to create a new post.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid "It seems we can’t find what you’re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:27
+msgid "Restaurant Culinary Default Image"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:69
+msgid "Read More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-single.php:74
+#: template-parts/content.php:82
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:89
+msgid "Read More"
+msgstr ""
